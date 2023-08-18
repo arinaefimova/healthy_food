@@ -1,0 +1,36 @@
+//<BUTTONS (a.btn+tab)>
+// Снипет (HTML): btn
+
+.button {
+	display: inline-flex;
+	padding: 0px 0px;
+	@media (any-hover: hover) {
+		&:hover {
+		}
+	}
+	&._fw {
+		width: 100%;
+	}
+}
+
+
+// .button {
+// 	display: inline-block;
+// 	height: 50px;
+// 	line-height: 48px;
+// 	padding: 0px 60px;
+// 	letter-spacing: 2.8px;
+// 	font-size: 14px;
+// 	font-weight: 700;
+// 	text-transform: uppercase;
+// 	border: 1px solid rgba(255,255,255, 0.5);
+// 	color:#fff;
+	
+// 	@media (any-hover: hover) {
+// 		&:hover {
+// 		}
+// 	}
+// 	&._fw {
+// 		width: 100%;
+// 	}
+// }
