@@ -4646,9 +4646,9 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
   }
 
   .chefs__column:hover {
-    background-color: #252525;
+/*     background-color: #252525;
 /*     padding: 10px; */
-    border-radius: 5px;
+    border-radius: 5px; */
   }
 
   .body-recipe__column:hover {
